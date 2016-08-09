@@ -5,4 +5,4 @@ import './styles/app.scss'
 
 
 
-render(<h1>Hola Bonitaaa!!!</h1>, document.getElementById('main'))
+render(<h1>Hola Bashishy!!!</h1>, document.getElementById('main'))
